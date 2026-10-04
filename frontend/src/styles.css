@@ -18,6 +18,7 @@ h1, .serif { font-family: "Instrument Serif", Georgia, serif; font-weight: 400; 
 }
 .card h3 { margin: 0 0 6px; font-family: "Instrument Serif", serif; font-size: 1.4rem; }
 .tag { font-size: 12px; color: var(--muted); }
+.tag.hold { display: block; margin-top: 4px; color: #a35b00; font-weight: 600; }
 .fab {
   position: fixed; right: 20px; bottom: 24px; width: 58px; height: 58px; border-radius: 50%;
   border: 0; background: var(--rose); color: #fff; font-size: 28px; cursor: pointer;
